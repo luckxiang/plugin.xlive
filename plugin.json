@@ -1,0 +1,14 @@
+{
+ "type": "ecmascript",
+  "id": "xlive",
+  "file": "xlive.js",
+  "category": "tv",
+  "showtimeVersion": "0.0.1",
+  "version": "0.0.1",
+  "author": "LuckXiang (@luckxiang)",
+  "title": "X LIVE",
+  "icon": "live.bmp",
+  "synopsis": "for test xlive",
+  "description":"<p>just for test movian plugin api.</p>",
+  "homepage":"https://github.com"
+}
